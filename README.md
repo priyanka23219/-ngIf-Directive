@@ -1,4 +1,9 @@
 # NgIF
+COMPLETE TABLE
+![COMPLETE TABLE](https://user-images.githubusercontent.com/75573132/115987334-3bcdf280-a5d2-11eb-9eca-77c50ca1123c.png)
+
+HINDING SOME COLUMNS  USING *ngIf Directive
+![output screen2](https://user-images.githubusercontent.com/75573132/115987331-3a9cc580-a5d2-11eb-90d6-d27b6261d585.png)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.1.2.
 
